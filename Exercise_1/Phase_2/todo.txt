@@ -1,6 +1,6 @@
-- Change dataset-diff-analysis.ipynb to work properly.
-- Maybe fix dataset-diff-analysis.
-- Write the code for utility in the context of P1 metrics.
-
 ===================================
-DONE Change diff analyzer to use MD5 hash to differentiate.
+DONE: Change diff analyzer to use MD5 hash to differentiate.
+DONE: Add noise to Attack V3.
+DONE: Maybe fix dataset-diff-analysis.
+DONE: Change dataset-diff-analysis.ipynb to work properly.
+DONE: Write the code for utility in the context of P1 metrics.
